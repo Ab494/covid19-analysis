@@ -1,0 +1,7 @@
+Ignore virtual environment
+env/
+Ignore python cache
+_pycache_/
+*.pyc
+Ignore Jupeter checkpoints
+.ipynb_checkpoints/
