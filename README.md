@@ -42,6 +42,7 @@ Open the notebooks/analysis.ipynb file to explore the analysis.
 * Vaccination Trends: Identified countries with the highest vaccination rates per capit
 * Daily Vaccination Rates: Analyzed flactuations and patterns in daily vaccination numbers
 * Fully Vaccinated Populations: Highlighted the progress of countries in achieving full vaccination coverage
+
   Visualizations
 * Line charts showing vaccination trends over time
   ![trend in kenya](https://github.com/user-attachments/assets/7ae930c4-3fae-4b30-91b7-7363c604da71)
