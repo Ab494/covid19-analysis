@@ -1,6 +1,7 @@
   COVID-19 Vaccination Data Analysis
     Overview
 This project presents analysis of global COVID-19 vaccination data, focusing on trends in total vaccinations, daily vaccination rates, and fully vaccinated populations across various countries. The analysis includes data cleaning, handling missing values and visualizations to uncover insights into vaccination efforts worldwide.
+ 
   Project Structure
 * data/: Contains the raw and processed datasets.
 * notebooks/: Jupyter notebooks with step by step data analysis.
@@ -31,9 +32,11 @@ pip install pandas matplotlib numpy seaborn jupyter
    source env/bin/activate # On Linux
    env\scripts\activate # On Windows
   3: Install dependencies:
+
   bash
    pip install -r requirement.txt
  4:Launch Jupyter notebook:
+
   bash
    jupyter notebook
 Open the notebooks/analysis.ipynb file to explore the analysis.
@@ -52,6 +55,7 @@ Open the notebooks/analysis.ipynb file to explore the analysis.
   ![distribution](https://github.com/user-attachments/assets/8ebc7947-0bd4-44da-943b-1fe08f5a5591)
 
     Contact
+  
   If you have any questions, feedback, or collaboration ideas, feel free to reach out:
   Name: Evans Kipngeno Cheruiyot
   Email: cheruiyotevans646@gmail.com
@@ -59,6 +63,7 @@ Open the notebooks/analysis.ipynb file to explore the analysis.
   Github: https://github.com/evanskipngeno
 
     Contributing
+  
   Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
   
 
