@@ -1,5 +1,7 @@
   COVID-19 Vaccination Data Analysis
+
     Overview
+
 This project presents analysis of global COVID-19 vaccination data, focusing on trends in total vaccinations, daily vaccination rates, and fully vaccinated populations across various countries. The analysis includes data cleaning, handling missing values and visualizations to uncover insights into vaccination efforts worldwide.
  
   Project Structure
