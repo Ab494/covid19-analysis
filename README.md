@@ -12,6 +12,7 @@ This project presents analysis of global COVID-19 vaccination data, focusing on 
 * README.md: Project overview and instructions.
 
    Dependencies
+
 The project utilizes the following Python libraries:
 * Pandas: Data manipulation
 * Python: Data analysis
