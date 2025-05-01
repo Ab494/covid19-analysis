@@ -22,23 +22,35 @@ bash
 pip install pandas matplotlib numpy seaborn jupyter
 
   Getting started
+  
   1. Clone the repository:
+     
      bash
      git clone https://github.com/Ab494/covid19-analysis.git
      cd covid19-analysis
+     
   2: Set up a virtual environment:
+  
   bash
+  
    python -m venv env
+
    source env/bin/activate # On Linux
+
    env\scripts\activate # On Windows
+
   3: Install dependencies:
 
   bash
+  
    pip install -r requirement.txt
+  
  4:Launch Jupyter notebook:
 
   bash
+  
    jupyter notebook
+   
 Open the notebooks/analysis.ipynb file to explore the analysis.
 
   Key Insights
