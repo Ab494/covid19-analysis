@@ -69,10 +69,11 @@ Open the notebooks/analysis.ipynb file to explore the analysis.
     Contact
   
   If you have any questions, feedback, or collaboration ideas, feel free to reach out:
-  Name: Evans Kipngeno Cheruiyot
-  Email: cheruiyotevans646@gmail.com
-  LinkedIn: https://www.linkedin.com/in/evans-cheruiyot-448458346
-  Github: https://github.com/evanskipngeno
+  
+Name: Evans Kipngeno Cheruiyot
+Email: cheruiyotevans646@gmail.com
+LinkedIn: https://www.linkedin.com/in/evans-cheruiyot-448458346
+Github: https://github.com/evanskipngeno
 
     Contributing
   
