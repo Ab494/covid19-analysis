@@ -56,12 +56,12 @@ pip install pandas matplotlib numpy seaborn jupyter
    
 Open the notebooks/analysis.ipynb file to explore the analysis.
 
-  Key Insights
+  ## Key Insights
 * Vaccination Trends: Identified countries with the highest vaccination rates per capit
 * Daily Vaccination Rates: Analyzed flactuations and patterns in daily vaccination numbers
 * Fully Vaccinated Populations: Highlighted the progress of countries in achieving full vaccination coverage
 
-  Visualizations
+  ## Visualizations
 * Line charts showing vaccination trends over time
   ![trend in kenya](https://github.com/user-attachments/assets/7ae930c4-3fae-4b30-91b7-7363c604da71)
 * Bar charts comparing vaccination rates across countries
@@ -69,7 +69,7 @@ Open the notebooks/analysis.ipynb file to explore the analysis.
 * Histograms depicting the distribution of daily vaccinations
   ![distribution](https://github.com/user-attachments/assets/8ebc7947-0bd4-44da-943b-1fe08f5a5591)
 
-    Contact
+    ## Contact
   
   If you have any questions, feedback, or collaboration ideas, feel free to reach out:
   
@@ -78,7 +78,7 @@ Email: cheruiyotevans646@gmail.com
 LinkedIn: https://www.linkedin.com/in/evans-cheruiyot-448458346
 Github: https://github.com/evanskipngeno
 
-    Contributing
+    ## Contributing
   
   Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
   
