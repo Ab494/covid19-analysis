@@ -1,17 +1,17 @@
-  * COVID-19 Vaccination Data Analysis
+  # COVID-19 Vaccination Data Analysis
 
-    Overview
+   ## Overview
 
 This project presents analysis of global COVID-19 vaccination data, focusing on trends in total vaccinations, daily vaccination rates, and fully vaccinated populations across various countries. The analysis includes data cleaning, handling missing values and visualizations to uncover insights into vaccination efforts worldwide.
  
-  Project Structure
+  ## Project Structure
 * data/: Contains the raw and processed datasets.
 * notebooks/: Jupyter notebooks with step by step data analysis.
 * scripts/: python scripts for data procesing and visualization.
 * outputs/: Generated plots and summsry tables.
 * README.md: Project overview and instructions.
 
-   Dependencies
+   ## Dependencies
 
 The project utilizes the following Python libraries:
 * Pandas: Data manipulation
@@ -24,7 +24,7 @@ The project utilizes the following Python libraries:
 bash
 pip install pandas matplotlib numpy seaborn jupyter
 
-  Getting started
+  ## Getting started
   
   1. Clone the repository:
      
